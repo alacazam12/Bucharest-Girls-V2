@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7b5189deef622c6b278db846885af11929e40872",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x7B5189dEEF622c6B278dB846885Af11929e40872",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bucharest Girls",
+  "SYMBOL": "BGNFT",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/bucharest-girls-nfts-v2",
+  "SHOW_BACKGROUND": true
+}
